@@ -9,7 +9,7 @@
 // ==/UserScript==
 
 var imagen;
-var opacidad = 0;
+var opacidad = 0.5;
 
 (function() {
     'use strict';
